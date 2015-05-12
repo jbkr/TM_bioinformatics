@@ -2,6 +2,8 @@
 
 #TMD bioinformatic scripts
 
+[![Join the chat at https://gitter.im/jbkr/TM_bioinformatics](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jbkr/TM_bioinformatics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is made up of a bundle of scripts that aims to study transmembrane sequence data. There are several pipelines that can be easily used.
 
 
