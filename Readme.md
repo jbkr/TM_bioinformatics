@@ -1,5 +1,7 @@
 #TMD bioinformatic scripts
 
+[![Join the chat at https://gitter.im/jbkr/TM_bioinformatics](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jbkr/TM_bioinformatics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is made up of a bundle of scripts that aims to study transmembrane sequence data. There are several pipelines that can be easily used.
 
 The overarching method would be to have an input file in the directory, change the file directory of the input variable in the script to that file, and then run the python script. *i.e* if you had a txt file from uniprot (a dat file), and you wanted to generate a fasta of all transmembrane sequences:
